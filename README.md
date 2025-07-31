@@ -42,7 +42,7 @@
 ### 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Brunobetiatto" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/Bruno Betiatto Alves" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:brunobetiatto@email.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
