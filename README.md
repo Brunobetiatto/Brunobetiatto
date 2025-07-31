@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=labet&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labet&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobetiatto&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobetiatto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ### 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:seu.email@email.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Brunobetiatto" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:brunobetiatto@email.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
